@@ -1,0 +1,19 @@
+.bordiArrotondati {
+    display: flex;
+    justify-content: center;
+    border-radius: 15px;
+    border-color: black;
+    text-align: center;
+}
+
+.divGenerale {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 15px;
+}
+
+.divIntestazione {
+    display: flex;
+    justify-content: center;
+    background-color: green;
+}
